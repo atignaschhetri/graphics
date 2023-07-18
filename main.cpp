@@ -1,3 +1,6 @@
+
+*Direct method of line drawing 
+
 #include <GL/glut.h>
 
 #include <iostream>
